@@ -1,7 +1,7 @@
 # Welcome to PCleaver's GitHub!
 https://www.linkedin.com/in/philip-cleaver-115a932a2/
 
-(https://github.com/PCleaver)
+https://github.com/PCleaver
 
 ## About Me
 I'm Philip, a passionate software enthusiast based in Birmingham. Currently honing my skills in a software bootcamp, I find immense joy in working with computers. My dedication extends beyond coding; I put 110% into overcoming challenges to achieve my goals.
