@@ -1,7 +1,10 @@
 # Welcome to PCleaver's GitHub!
 
-[![![1708710336017](https://github.com/PCleaver/PCleaver/assets/151676621/f9bc9c56-30de-4a33-8d2e-40d8d206372e)
-](link_to_profile_image.jpg)](https://github.com/account)
+![151676621](https://github.com/PCleaver/PCleaver/assets/151676621/a6c36dd9-bab2-4e05-b325-57459d58551f)
+
+https://github.com/PCleaver/PCleaver/assets/151676621/f9bc9c56-30de-4a33-8d2e-40d8d206372e
+
+https://github.com/account
 
 ## About Me
 I'm Philip, a passionate software enthusiast based in Birmingham. Currently honing my skills in a software bootcamp, I find immense joy in working with computers. My dedication extends beyond coding; I put 110% into overcoming challenges to achieve my goals.
