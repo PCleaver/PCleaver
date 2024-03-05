@@ -1,9 +1,5 @@
 # Welcome to PCleaver's GitHub!
-
-![151676621](https://github.com/PCleaver/PCleaver/assets/151676621/a6c36dd9-bab2-4e05-b325-57459d58551f)
-
-https://github.com/PCleaver/PCleaver/assets/151676621/f9bc9c56-30de-4a33-8d2e-40d8d206372e
-
+https://www.linkedin.com/in/philip-cleaver-115a932a2/
 https://github.com/account
 
 ## About Me
