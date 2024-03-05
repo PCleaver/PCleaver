@@ -1,6 +1,6 @@
 # Welcome to PCleaver's GitHub!
 https://www.linkedin.com/in/philip-cleaver-115a932a2/
-[https://github.com/account]
+
 (https://github.com/PCleaver)
 
 ## About Me
